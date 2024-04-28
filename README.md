@@ -11,4 +11,5 @@
 sepal length, sepal width, petal length, petal width, species
 
 **About:**
+
 Firstly I found sepal dimensions and petal dimensions using scatterplot. Then found correlation between dependent and independent variables. and then build decision tree model. And found accurracy of the model.
